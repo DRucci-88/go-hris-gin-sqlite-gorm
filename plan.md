@@ -18,8 +18,6 @@ Membangun backend Mini HRIS menggunakan Go, Gin, dan SQLite untuk menangani data
   - ORM untuk query database, relasi antar tabel, dan auto migration.
 - `gorm.io/driver/sqlite`
   - Driver SQLite untuk GORM.
-- `github.com/air-verse/air`
-  - Tool development untuk hot reload saat menjalankan server Gin selama proses coding.
 
 ### Library/Paket Standard yang Dipakai
 - `net/http`
@@ -46,7 +44,6 @@ Membangun backend Mini HRIS menggunakan Go, Gin, dan SQLite untuk menangani data
 - `go get github.com/gin-gonic/gin`
 - `go get gorm.io/gorm`
 - `go get gorm.io/driver/sqlite`
-- `go get -tool github.com/air-verse/air@latest`
 
 ## Struktur Folder
 
